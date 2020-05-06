@@ -1,0 +1,2 @@
+# SoundCardECG
+VisualStudio2019
